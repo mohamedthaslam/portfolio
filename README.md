@@ -57,7 +57,7 @@ Then just open `index.html` in your browser — no build step, no dependencies.
 ## 📬 Contact
 
 - GitHub: [@mohamedthaslam](https://github.com/mohamedthaslam)
-- Email: [@mohamedthaslam786](https://email.com/mohamedthaslam786gmail.com).
+- Email: [@mohamedthaslam786@gmail.com](https://email.com/mohamedthaslam786gmail.com).
 
 
 
